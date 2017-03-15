@@ -21,6 +21,9 @@ void test_reverse_str()
 
 void main()
 {
-	test_reverse_str();
+	//test_reverse_str();
+	char a[] = "hello";
+	cout << sizeof(a) / sizeof(char) << endl;
+	cout << strlen(a) << endl;
 	cout << "BoBo in running" << endl;
 }
