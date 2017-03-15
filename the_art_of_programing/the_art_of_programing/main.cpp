@@ -26,4 +26,5 @@ void main()
 	cout << sizeof(a) / sizeof(char) << endl;
 	cout << strlen(a) << endl;
 	cout << "BoBo in running" << endl;
+	///
 }
